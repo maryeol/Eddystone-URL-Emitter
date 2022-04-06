@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">emitterbeacon</string>
+    <string name="str_set_tx_power">Set TxPower Value</string>
+    <string name="str_start_transmitting">Start Transmitting</string>
+    <string name="msg_no_support">No Support</string>
+    <string name="str_ok">OK</string>
+</resources>
